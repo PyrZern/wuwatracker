@@ -60,7 +60,7 @@ export const bannerMetadata: BannerMetadata[] = [
   },
   {
     cardPoolType: 4,
-    title: 'Weapon Permanent',
+    title: 'Permanent Weapon',
     description: 'Winter Brume Banner',
     featuredName: 'Lustrous Razor',
     pullCost: 160,
